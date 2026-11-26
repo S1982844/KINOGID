@@ -1,0 +1,4 @@
+pandas>=1.5
+ipywidgets>=8.0
+deep-translator>=1.11
+jupyter
